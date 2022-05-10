@@ -7,7 +7,7 @@ const CONFIG = {
     một kẻ yêu em đến dại khờ.`,
     btnIntro: '❤',
     title: 'Liệu cậu có thích tôi không ?',
-    desc: 'Hay chi xem tôi là bạn 🙁 ',
+    desc: 'Hay cậu chỉ xem tôi là bạn 🙁 ',
     btnYes: 'Tất nhiên rồi <33',
     btnNo: 'Hok bé ơi :3',
     question: 'Nói cho tui biết tại sao đi <3',
