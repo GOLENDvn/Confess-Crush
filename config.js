@@ -11,7 +11,7 @@ const CONFIG = {
     btnYes: 'Tất nhiên rồi <33',
     btnNo: 'Hok bé ơi :3',
     question: 'Nói cho tui biết tại sao đi <3',
-    btnReply: 'Gửi cho bạn <3',
+    btnReply: 'Gửi cho tui <3',
     reply: 'Tui thích z đó, làm gì được tui',
     mess: 'Tui biết mà 😁. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Còn chờ gì nữa mà hok ib tui đi :>.',
