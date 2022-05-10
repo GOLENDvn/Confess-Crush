@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "You are mine!",
     introTitle: 'Gửi cậu, người đã vào web này!',
-    introDesc: `Một kẻ văn vở thích làm thơ
-    Một kẻ ngu ngơ thích đợi chờ
+    introDesc: `Một kẻ văn vở thích làm thơ.
+    Một kẻ ngu ngơ thích đợi chờ.
     Còn tôi...
-    Một kẻ yêu em đến dại khờ.`,
+    một kẻ yêu em đến dại khờ.`,
     btnIntro: '❤',
     title: 'Liệu cậu có thích tôi không ?',
     desc: 'Hay chi xem tôi là bạn 🙁 ',
